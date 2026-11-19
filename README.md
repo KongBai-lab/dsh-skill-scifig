@@ -5,6 +5,23 @@
 光变曲线、热图、等高线、corner plot、天图投影、公式排版、**SVG/PDF 矢量输出**，
 出图自动跑合规检查。也支持中文教学插图档（150 × 92 mm @300 dpi）。
 
+## 示例
+
+<table>
+  <tr>
+    <td align="center"><img src="examples/demo_fit.png" width="440" alt="拟合与残差"><br>数据 + 模型拟合 + 残差子图</td>
+    <td align="center"><img src="examples/demo_lightcurve.png" width="440" alt="光变曲线"><br>光变曲线（误差棒 + 模型）</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/demo_contour_labels.png" width="440" alt="等高线"><br>等高线（带数值标签）</td>
+    <td align="center"><img src="examples/demo_heatmap.png" width="440" alt="热图"><br>二维热图 + colorbar</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/demo_corner.png" width="440" alt="corner plot"><br>MCMC 后验角图（corner plot）</td>
+    <td align="center"><img src="examples/showcase_math.png" width="440" alt="公式排版"><br>数学公式排版（上下标 / 分式 / 根式 / 希腊字母）</td>
+  </tr>
+</table>
+
 ## 目录
 
 ```
